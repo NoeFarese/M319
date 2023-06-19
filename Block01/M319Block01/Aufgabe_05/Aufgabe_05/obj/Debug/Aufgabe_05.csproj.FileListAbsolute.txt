@@ -1,0 +1,8 @@
+C:\Users\bbzwadmin\Desktop\M139\M319Block01\Aufgabe_05\Aufgabe_05\bin\Debug\Aufgabe_05.exe.config
+C:\Users\bbzwadmin\Desktop\M139\M319Block01\Aufgabe_05\Aufgabe_05\bin\Debug\Aufgabe_05.exe
+C:\Users\bbzwadmin\Desktop\M139\M319Block01\Aufgabe_05\Aufgabe_05\bin\Debug\Aufgabe_05.pdb
+C:\Users\bbzwadmin\Desktop\M139\M319Block01\Aufgabe_05\Aufgabe_05\obj\Debug\Aufgabe_05.csproj.AssemblyReference.cache
+C:\Users\bbzwadmin\Desktop\M139\M319Block01\Aufgabe_05\Aufgabe_05\obj\Debug\Aufgabe_05.csproj.SuggestedBindingRedirects.cache
+C:\Users\bbzwadmin\Desktop\M139\M319Block01\Aufgabe_05\Aufgabe_05\obj\Debug\Aufgabe_05.csproj.CoreCompileInputs.cache
+C:\Users\bbzwadmin\Desktop\M139\M319Block01\Aufgabe_05\Aufgabe_05\obj\Debug\Aufgabe_05.exe
+C:\Users\bbzwadmin\Desktop\M139\M319Block01\Aufgabe_05\Aufgabe_05\obj\Debug\Aufgabe_05.pdb

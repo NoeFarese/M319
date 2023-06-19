@@ -1,0 +1,8 @@
+C:\Users\bbzwadmin\Desktop\M139\M319Block01\Einstieg\bin\Debug\Einstieg.exe.config
+C:\Users\bbzwadmin\Desktop\M139\M319Block01\Einstieg\bin\Debug\Einstieg.exe
+C:\Users\bbzwadmin\Desktop\M139\M319Block01\Einstieg\bin\Debug\Einstieg.pdb
+C:\Users\bbzwadmin\Desktop\M139\M319Block01\Einstieg\obj\Debug\Einstieg.csproj.AssemblyReference.cache
+C:\Users\bbzwadmin\Desktop\M139\M319Block01\Einstieg\obj\Debug\Einstieg.csproj.SuggestedBindingRedirects.cache
+C:\Users\bbzwadmin\Desktop\M139\M319Block01\Einstieg\obj\Debug\Einstieg.csproj.CoreCompileInputs.cache
+C:\Users\bbzwadmin\Desktop\M139\M319Block01\Einstieg\obj\Debug\Einstieg.exe
+C:\Users\bbzwadmin\Desktop\M139\M319Block01\Einstieg\obj\Debug\Einstieg.pdb
